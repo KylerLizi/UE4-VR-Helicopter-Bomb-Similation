@@ -28,7 +28,6 @@ BattleTank.VC.VC.opendb
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 *.ipa
