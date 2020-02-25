@@ -1,4 +1,4 @@
-# UE4-VR-Helicopter-Bomb-Similation
+# UE4-VR-Helicopter-Bomb-Similation 2019.10.18-2019.11.15
 # 游戏简介：<br>
 课程设计作品：基于UE4 4.23的VR直升机飞行真实模拟与导弹发射与爆炸仿真<br>
 通过WASD控制水平方向移动，空格与Ctrl键控制垂直方向移动<br>
